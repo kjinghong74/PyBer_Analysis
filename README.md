@@ -16,4 +16,7 @@
 ![total_fares_by_citytype](https://user-images.githubusercontent.com/90361056/138577886-fc7b61fc-3c34-4e58-ab50-b9d0e938805d.png)
 
 ## Summary and Recommendations:
-  From the analysis, we can obtain a conclusion that more populated cities have more total rides, total drivers and total fares, but the average fare per ride and average fare per driver is cheaper in more populated cities. 
+- Summary: From the analysis, we can obtain a conclusion that more populated cities have more total rides, total drivers and total fares, but the average fare per ride and average fare per driver is cheaper in more populated cities. Theoretically, there is low demand for ride-sharing in rural area and high demand for ride-sharing in urban area, therfore the total rides, total drivers and total fares are high in more populated area. But because there is few demand for ride-sharing in rural area, the ddrivers had to surge their prices to compensate for the cost. 
+- Recommendations: 
+  1. The demand for ride-sharing in rural area can be analyzed, if the ride-sharing services doesn't meet the demand in rural area, more drivers can be assigned to those cities.
+  2. Pricing components can be adjusted according to the city types for ride-sharing services, such as adjusting the rate cost according to the ride distance, ride time, and the type of the car. 
