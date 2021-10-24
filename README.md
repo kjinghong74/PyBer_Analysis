@@ -15,3 +15,5 @@
 
 ![total_fares_by_citytype](https://user-images.githubusercontent.com/90361056/138577886-fc7b61fc-3c34-4e58-ab50-b9d0e938805d.png)
 
+## Summary and Recommendations:
+  From the analysis, we can obtain a conclusion that more populated cities have more total rides, total drivers and total fares, but the average fare per ride and average fare per driver is cheaper in more populated cities. 
