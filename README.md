@@ -11,7 +11,7 @@
 ![dataframe_citytype](https://user-images.githubusercontent.com/90361056/138576490-28ffb491-08ae-4901-904d-5ce128bd5837.PNG)
 
 
--A multiple-line graph shows the total weekly fares for each city type between Jan and Apr of 2019
+- A multiple-line graph shows the total weekly fares for each city type between Jan and Apr of 2019
 
 ![total_fares_by_citytype](https://user-images.githubusercontent.com/90361056/138577886-fc7b61fc-3c34-4e58-ab50-b9d0e938805d.png)
 
